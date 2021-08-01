@@ -1,2 +1,2 @@
 # Keeper_Note_Taker
-Created with CodeSandbox
+Add and delete thoughts that come into your mind with the Keeper Note Taker 🔥
